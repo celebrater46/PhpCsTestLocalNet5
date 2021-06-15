@@ -1,4 +1,4 @@
-﻿namespace PhpCsTest2
+﻿namespace datatest
 {
     partial class Form1
     {

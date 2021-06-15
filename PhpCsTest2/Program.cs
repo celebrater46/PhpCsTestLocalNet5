@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PhpCsTest2
+namespace datatest
 {
     static class Program
     {
